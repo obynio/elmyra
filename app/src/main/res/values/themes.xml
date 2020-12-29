@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Elmyra" parent="Theme.AppCompat.DayNight">
+        <!-- branding color for the app bar -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- darker variant for the status bar and contextual app bars -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- theme ui controls like checkboxes and text fields -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- the app background -->
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+</resources>
