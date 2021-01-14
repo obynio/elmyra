@@ -1,11 +1,3 @@
 <resources>
     <string name="app_name">Elmyra</string>
-    <string name="title_activity_settings">Active Edge</string>
-
-    <!-- Titles -->
-    <string name="usage_header">Usage</string>
-    <string name="configuration_header">Configuration</string>
-
-    <!-- Usage -->
-    <string name="action_title">Squeeze action</string>
 </resources>

@@ -1,5 +1,4 @@
 <voice-interaction-service xmlns:android="http://schemas.android.com/apk/res/android"
     android:recognitionService="re.leon.elmyra.ElmyraService"
     android:sessionService="re.leon.elmyra.ElmyraSessionService"
-    android:settingsActivity="re.leon.elmyra.SettingsActivity"
     android:supportsAssist="true" />

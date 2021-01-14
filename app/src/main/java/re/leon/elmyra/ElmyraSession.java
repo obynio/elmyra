@@ -9,7 +9,6 @@ import android.hardware.camera2.CameraManager;
 import android.os.Bundle;
 import android.service.voice.VoiceInteractionSession;
 import android.util.Log;
-import android.widget.Toast;
 
 public class ElmyraSession extends VoiceInteractionSession {
     public ElmyraSession(Context context) {
@@ -29,8 +28,8 @@ public class ElmyraSession extends VoiceInteractionSession {
     }
 
     @Override
-    public void onHandleAssist(Bundle data, AssistStructure structure, AssistContent content) {
-        super.onHandleAssist(data, structure, content);
+    public void onHandleAssist(VoiceInteractionSession.AssistState state) {
+        super.onHandleAssist(state);
 
         hide();
 

@@ -50,6 +50,8 @@ Finally, both of these solutions are closed-source and no public documention is 
 
 > Gimme some usage ideas ?
 
+For the moment **Elmyra** can only turn the device torch on and off, but here are some usage ideas to explore...
+
 * Squeeze for torch
 * Squeeze for camera
 * Squeeze to turn screen off

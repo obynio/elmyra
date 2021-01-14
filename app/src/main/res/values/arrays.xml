@@ -1,9 +1,0 @@
-<resources>
-    <string-array name="action_entries">
-        <item>Flashlight</item>
-    </string-array>
-
-    <string-array name="action_values">
-        <item>flashlight</item>
-    </string-array>
-</resources>
