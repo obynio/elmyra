@@ -6,7 +6,7 @@
 
 Active Edge is arguably one of the best (original) feature of Google Pixel smartphone devices that creates a force-sensitive interaction surface along their sides, allowing users to perform gestures by holding and squeezing their device. Basically, pressing the edges of your phone allows you to perform an action.
 
-<p align="center"><img width="800" alt="Active Edge" src="https://user-images.githubusercontent.com/2095991/103447559-23d20c00-4c8d-11eb-8d9c-1f23cabc0d85.png">
+<p align="center"><img width="800" alt="Active Edge" src="https://user-images.githubusercontent.com/2095991/106825216-abdc7480-6684-11eb-9d3b-429ce5ee287c.png">
 </p>
 
 This technology was first seen on HTC smartphone and was then adapted by Google on its Pixel devices. Sensors are located on each side of the device and can measure the pression applied on the edges when the user squeeze their smartphone. You can read more about it on the [research paper](https://dl.acm.org/doi/pdf/10.1145/3290605.3300504) published by Google.
